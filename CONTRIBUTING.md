@@ -21,7 +21,11 @@ Welcome to the [Your Repository Name] repository! We're thrilled to have you her
    ```
    git push origin feature/your-feature-name
    ```
+<<<<<<< HEAD
 8. Open a pull request on the main repository's branch.
+=======
+8. Open a pull request on the main repository's branch with a valuable title and description.
+>>>>>>> 373999d (Update CONTRIBUTING.md)
 
 ## Code of Conduct
 
@@ -46,9 +50,12 @@ By contributing, you agree that your contributions will be licensed under the [L
 ## Acknowledgements
 
 We appreciate your time and effort in contributing to [https://github.com/soniyaprasad77/soniyaprasad77.github.io]!
+<<<<<<< HEAD
 
 ---
 
 Remember to replace `[Your Repository Name]` with the actual name of your repository.
 
 Feel free to customize this template to better suit your specific needs and guidelines for contributions. You may want to include specific details about the technology stack, testing procedures, or any other specific requirements for contributors to follow.
+=======
+>>>>>>> 373999d (Update CONTRIBUTING.md)
